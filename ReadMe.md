@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫I'm currently study in CSE<br>🌱Recently started POTD in gfg<br>🧑‍💻Learning web dev<br>🧑‍🎓2nd year student<br>🎓SurTech / Dumdum
+🏫I'm currently studing in CSE<br>🌱Recently started POTD in gfg<br>🧑‍💻Learning web dev<br>🧑‍🎓2nd year student<br>🎓SurTech / Dumdum
 
 
 ## 🌐 Socials:
